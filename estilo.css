@@ -6,13 +6,57 @@
     background-color: rgb(77, 190, 152);
     !important
 }
-.jumbotron{
-    background-image: url(imagenes/portada.jpg);
-    background-size: cover;
-    background-position: center;
-    max-width: 100%;
-    height: 800px;
-}
 .footerColor{
-    background-color: darkcyan;
+    background-color: rgb(0, 0, 0);
+}
+.sectionServicios{
+  background-color: rgb(73, 167, 195);
+}
+
+.ul{
+    margin-left: 0;
+    padding-left: 0;
+    top: 20px;
+    line-height: 2.2;
+}
+.li{
+  margin-left: 0;
+  text-transform: uppercase;
+  font-size: 40px;
+}
+.sectionSobreNosotros{
+  background-color: darkturquoise;
+}
+.pSobreNosotros{
+  font-size: 25px;
+  line-height: 2.1;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sectionUbicacion{
+  background-color: rgb(154, 200, 231);
+}
+.imgUbicacion{
+  position: relative;
+  left: 25%;
+
+}
+.spanUbicacion{
+  font-size: 25px;
+  text-transform: uppercase;
+  position: relative;
+  left: 28%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pUbicacion{
+  font-size: 22px;
+  line-height: 1.5;
+}
+.fontRedes{
+  font-size: 25px;
+}
+.sectionContacto{
+  background-color: rgb(203, 255, 216);
+}
+.redes{
+  font-size: 25px;
 }
